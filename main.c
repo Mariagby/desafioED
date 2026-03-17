@@ -53,7 +53,7 @@ void menuCursos() {
 void menuTurmas() {
     int opcao;
     do {
-        printf("\n=== TELA DE TURMAS ===\n");
+        printf("\n TELA DE TURMAS\n");
         printf("1- Inserir Turma\n");
         printf("2- Editar Turma\n");
         printf("3- Excluir Turma\n");
@@ -77,7 +77,7 @@ void menuTurmas() {
 void menuRelatorios() {
     int opcao;
     do {
-        printf("\n=== RELATORIOS ===\n");
+        printf("\n RELATORIOS\n");
         printf("1- Discentes\n");
         printf("2- Cursos\n");
         printf("3- Buscar Discente por Nome\n");
